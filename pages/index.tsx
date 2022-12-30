@@ -1,10 +1,10 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import localFont from '@next/font/local'
-import styles from '../styles/Home.module.scss'
+import Head from "next/head";
+import Image from "next/image";
+import localFont from "@next/font/local";
+import styles from "../styles/Home.module.scss";
 
-const newYork = localFont({ src: './fonts/NewYork.otf' })
-const MonumentLight = localFont({ src: './fonts/Monument_Extended/Light.otf' })
+const newYork = localFont({ src: "./fonts/NewYork.otf" });
+const MonumentLight = localFont({ src: "./fonts/Monument_Extended/Light.otf" });
 
 export default function Home() {
   return (
@@ -16,11 +16,20 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Image className={styles.bgImage} src='/images/sao-vicente.jpg' alt={''} fill/>
-      <main>
-        <h1 className={`${newYork.className} ${styles.h1}`}>Calendário Litúrgico</h1>
-        <h3 className={`${MonumentLight.className} ${styles.h3}`}>PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS</h3>
+      <Image
+        className={styles.bgImage}
+        src="/images/sao-vicente.jpg"
+        alt={""}
+        fill
+      />
+      <main className={styles.main}>
+        <h1 className={`${newYork.className} ${styles.h1}`}>
+          Calendário Litúrgico
+        </h1>
+        <h3 className={`${MonumentLight.className} ${styles.h3}`}>
+          PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
+        </h3>
       </main>
     </>
-  )
+  );
 }

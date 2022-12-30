@@ -1,16 +1,28 @@
-.bgImage{
-    mix-blend-mode: luminosity;
-    opacity: 2%;
-    position: relative;
-    z-index: -1;
+@import './variables.scss';
+
+.bgImage {
+  mix-blend-mode: luminosity;
+  opacity: 2%;
+  position: relative;
+  z-index: -1;
 }
 
-.h1{
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  margin-top: 2rem;
+
+  .h1 {
     font-weight: inherit;
     font-size: 4rem;
-}
+    color: $dark-color;
+  }
 
-.h3{
+  .h3 {
     font-weight: inherit;
     font-size: 1rem;
+    color: $subtitle;
+  }
 }
