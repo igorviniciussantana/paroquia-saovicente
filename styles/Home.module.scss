@@ -21,6 +21,10 @@
   top: 0;
 
   width: 100%;
+  height: calc(100% - 2rem);
+  
+  overflow-y: scroll;
+  overflow-x: hidden;
 
   display: flex;
   align-items: center;
@@ -38,5 +42,11 @@
     font-weight: inherit;
     font-size: 1rem;
     color: $subtitle;
+  }
+
+  .saoVicenteImage{
+    width: 6rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
   }
 }

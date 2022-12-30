@@ -24,6 +24,9 @@ export default function Home() {
         <h3 className={`${MonumentLight.className} ${styles.h3}`}>
           PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
         </h3>
+
+        <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage}/>
+
       </main>
     </>
   );
