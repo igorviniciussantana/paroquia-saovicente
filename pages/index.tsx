@@ -17,7 +17,7 @@ export default function Home() {
 
       <Image className={styles.bgImage} src='/images/sao-vicente.jpg' alt={''} fill/>
       <main>
-        <h1 className={`${myFont.className} ${styles.title}`}>Calendário Litúrgico</h1>
+        <h1 className={`${myFont.className} ${styles.h1}`}>Calendário Litúrgico</h1>
         <h3>PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS</h3>
       </main>
     </>
