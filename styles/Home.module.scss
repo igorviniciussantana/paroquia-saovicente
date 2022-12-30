@@ -1,13 +1,23 @@
-@import './variables.scss';
+@import "./variables.scss";
 
 .bgImage {
+  background-image: url("./../public/images/sao-vicente.jpg");
   mix-blend-mode: luminosity;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
   opacity: 2%;
   position: relative;
   z-index: -1;
 }
 
 .main {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
