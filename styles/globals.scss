@@ -12,6 +12,16 @@ a{
     all: unset;
 }
 
+::-webkit-scrollbar{
+    width: 0.75rem;
+}
+
+
+::-webkit-scrollbar-thumb{
+    background-color: $dark-color;
+    border-radius: 0.25rem;
+}
+
 body{
     background-color: $background-color;
     width: 100%;
