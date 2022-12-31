@@ -250,7 +250,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan={36}>
+          <td rowSpan={36} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -875,7 +875,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="38">
+          <td rowSpan={38} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -1494,7 +1494,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="12">
+          <td rowSpan={12} className="aside">
             <div className="season">Quaresma</div>
           </td>
         </tr>
@@ -1667,7 +1667,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="46">
+          <td rowSpan={46} className="aside">
             <div className="season">Quaresma</div>
           </td>
         </tr>
@@ -2369,7 +2369,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="6">
+          <td rowSpan={6} className="aside">
             <div className="season">Quaresma</div>
           </td>
         </tr>
@@ -2453,7 +2453,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="4">
+          <td rowSpan={4} className="aside">
             <div className="season">Tríduo<br/>Pascal</div>
           </td>
         </tr>
@@ -2502,8 +2502,8 @@ export default function Table() {
             </p>
           </td>
         </tr>
-        <tr>
-          <td rowSpan="30">
+        <tr >
+          <td rowSpan={30} className="aside">
             <div className="season">Tempo Pascal</div>
           </td>
         </tr>
@@ -3017,7 +3017,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="50">
+          <td rowSpan={50} className="aside">
             <div className="season">Tempo Pascal</div>
           </td>
         </tr>
@@ -3824,7 +3824,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="4">
+          <td rowSpan={4} className="aside">
             <div className="season">Tempo<br/>Comum</div>
           </td>
         </tr>
@@ -3897,7 +3897,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="46">
+          <td rowSpan={46} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -4755,7 +4755,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="53">
+          <td rowSpan={53} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -5722,7 +5722,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="56">
+          <td rowSpan={56} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -6752,7 +6752,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="45">
+          <td rowSpan={45} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -7597,7 +7597,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="57">
+          <td rowSpan={57} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -8626,7 +8626,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="47">
+          <td rowSpan={47} className="aside">
             <div className="season">Tempo Comum</div>
           </td>
         </tr>
@@ -9502,7 +9502,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="5">
+          <td rowSpan={5} className="aside">
             <div className="season">Tempo<br/> Comum</div>
           </td>
         </tr>
@@ -9558,7 +9558,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="35">
+          <td rowSpan={35} className="aside">
             <div className="season">Advento</div>
           </td>
         </tr>
@@ -10120,7 +10120,7 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td rowSpan="10">
+          <td rowSpan={10} className="aside">
             <div className="season">Tempo do Natal</div>
           </td>
         </tr>
