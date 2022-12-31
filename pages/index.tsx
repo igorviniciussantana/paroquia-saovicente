@@ -3,6 +3,7 @@ import Image from "next/image";
 import styles from "../styles/Home.module.scss";
 import Table from "../components/Table/Table";
 import {MonumentBlack, MonumentLight, newYork} from './../src/imports'
+import Footer from "../components/Footer/Footer";
 export default function Home() {
   return (
     <>
@@ -31,7 +32,10 @@ export default function Home() {
           2023
         </h2>
         <Table />
+        <Footer />
       </main>
+
+      
     </>
   );
 }

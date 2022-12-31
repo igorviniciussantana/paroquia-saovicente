@@ -2,3 +2,14 @@ $background-color: #FFF5EA;
 $dark-color: #471F08;
 $subtitle: #D49672;
 $secondary-color: #FADECE;
+
+@font-face {
+    font-family: "Monument";
+    src: url("../pages/fonts/Monument_Extended/Black.otf");
+  }
+  
+  @font-face {
+      font-family: "Apple_Garamond";
+      src: url("../pages/fonts/AppleGaramond.ttf");
+    }
+    
