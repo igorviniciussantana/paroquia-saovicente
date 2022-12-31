@@ -76,6 +76,7 @@ export default function Table() {
             </p>
           </td>
         </tr>
+
         <tr id="0103" className="painted">
           <td align="right" rowSpan="3">
             <span className="zdate">3</span>

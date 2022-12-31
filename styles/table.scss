@@ -5,6 +5,12 @@
   src: url("../pages/fonts/Monument_Extended/Black.otf");
 }
 
+@font-face {
+    font-family: "Apple_Garamond";
+    src: url("../pages/fonts/AppleGaramond.ttf");
+  }
+  
+
 table {
     border-spacing: 0px;
 
@@ -15,12 +21,15 @@ table {
 .indent, .zdate{
     color: $dark-color;
     font-size: 1.25rem;
+    padding: 0.75rem;
+    font-family: 'Apple_Garamond';
 }
 
 .aside{
     border: 1px solid $dark-color;
     font-size: 1.25rem;
     color: $dark-color;
+    font-family: 'Apple_Garamond';
 
 }
 
