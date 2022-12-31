@@ -1,12 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
-import localFont from "@next/font/local";
 import styles from "../styles/Home.module.scss";
-
-const newYork = localFont({ src: "./fonts/NewYork.otf" });
-const MonumentLight = localFont({ src: "./fonts/Monument_Extended/Light.otf" });
-const MonumentBlack = localFont({ src: "./fonts/Monument_Extended/Black.otf" });
-
+import Table from "../components/Table/Table";
+import {MonumentBlack, MonumentLight, newYork} from './../src/imports'
 export default function Home() {
   return (
     <>
@@ -31,7 +27,10 @@ export default function Home() {
 
         <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage} />
 
-        <h2 className={`${MonumentBlack.className} ${styles.yearTitle}`}>2023</h2>
+        <h2 className={`${MonumentBlack.className} ${styles.yearTitle}`}>
+          2023
+        </h2>
+        <Table />
       </main>
     </>
   );

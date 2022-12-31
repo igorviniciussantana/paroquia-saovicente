@@ -8,6 +8,10 @@
    
 }
 
+a{
+    all: unset;
+}
+
 body{
     background-color: $background-color;
     width: 100%;

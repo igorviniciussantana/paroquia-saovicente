@@ -1,0 +1,24 @@
+@import "variables.scss";
+
+@font-face {
+  font-family: "Monument";
+  src: url("../pages/fonts/Monument_Extended/Black.otf");
+}
+
+table {
+  background-color: red;
+  .tbhd {
+    background-color: $dark-color;
+    width: 100%;
+    color: $background-color;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1rem;
+    font-family: "Monument";
+
+    td {
+      padding: 0.75rem;
+    }
+  }
+}
