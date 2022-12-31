@@ -24,6 +24,7 @@ table {
     font-size: 1.25rem;
     padding: 0.75rem;
     font-family: 'Apple_Garamond';
+    
 }
 
 .aside{
@@ -40,7 +41,7 @@ table {
   .tbhd {
     background-color: $dark-color !important;
     width: 100%;
-    color: $background-color;
+    color: $background-color !important;
     font-size: 1.25rem;
     text-transform: uppercase;
     text-align: center;

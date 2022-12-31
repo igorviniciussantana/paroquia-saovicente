@@ -22,7 +22,7 @@
 
   width: 100%;
   height: calc(100% - 2rem);
-  
+
   overflow-y: scroll;
   overflow-x: hidden;
 
@@ -30,9 +30,8 @@
   align-items: center;
   flex-direction: column;
 
-  margin-top: 2rem;
-
   .title {
+    margin-top: 2rem;
     font-weight: inherit;
     font-size: 4rem;
     color: $dark-color;
@@ -49,13 +48,13 @@
     padding: 0.25rem;
   }
 
-  .saoVicenteImage{
+  .saoVicenteImage {
     width: 6rem;
     margin-top: 1rem;
     border-radius: 2rem;
   }
 
-  .yearTitle{
+  .yearTitle {
     font-size: 3rem;
     color: $dark-color;
     margin-top: 4rem;
