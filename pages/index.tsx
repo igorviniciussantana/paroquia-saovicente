@@ -18,10 +18,10 @@ export default function Home() {
 
       <div className={styles.bgImage}></div>
       <main className={styles.main}>
-        <h1 className={`${newYork.className} ${styles.h1}`}>
+        <h1 className={`${newYork.className} ${styles.title}`}>
           Calendário Litúrgico
         </h1>
-        <h3 className={`${MonumentLight.className} ${styles.h3}`}>
+        <h3 className={`${MonumentLight.className} ${styles.subtitle}`}>
           PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
         </h3>
 
