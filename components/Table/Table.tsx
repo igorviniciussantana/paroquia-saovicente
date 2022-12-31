@@ -55,7 +55,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-B.htm#67098"
                 className="feast3"
@@ -91,7 +92,7 @@ export default function Table() {
               <span className="feast4">Terça-Feira do Tempo do Natal</span>
             </p>
           </td>
-        </tr  >
+        </tr>
         <tr className="painted">
           <td align="center">
             <a
@@ -183,7 +184,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-Q.htm#24416"
                 className="feast4"
@@ -213,13 +215,9 @@ export default function Table() {
           </td>
         </tr>
         <tr>
-          <td align="center">
-        
-          </td>
+          <td align="center"></td>
           <td>
-            <p className="indent">
-             Tríduo a Nossa Senhora de Lourdes
-            </p>
+            <p className="indent">Tríduo a Nossa Senhora de Lourdes</p>
           </td>
         </tr>
         <tr id="0109" className="painted">
@@ -240,13 +238,9 @@ export default function Table() {
           </td>
         </tr>
         <tr className="painted">
-          <td align="center">
-        
-          </td>
+          <td align="center"></td>
           <td>
-            <p className="indent">
-             Tríduo a Nossa Senhora de Lourdes
-            </p>
+            <p className="indent">Tríduo a Nossa Senhora de Lourdes</p>
           </td>
         </tr>
         <tr>
@@ -267,18 +261,16 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana I do Tempo Comum</span>
+              <span className="feast4">
+                Terça-Feira da Semana I do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
         <tr>
-          <td align="center">
-        
-          </td>
+          <td align="center"></td>
           <td>
-            <p className="indent">
-             Tríduo a Nossa Senhora de Lourdes
-            </p>
+            <p className="indent">Tríduo a Nossa Senhora de Lourdes</p>
           </td>
         </tr>
         <tr id="0111" className="painted">
@@ -294,18 +286,16 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana I do Tempo Comum</span>
+              <span className="feast4">
+                Quarta-Feira da Semana I do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
         <tr className="painted">
-          <td align="center">
-        
-          </td>
+          <td align="center"></td>
           <td>
-            <p className="indent">
-             Dia de Nossa Senhora de Lourdes
-            </p>
+            <p className="indent">Dia de Nossa Senhora de Lourdes</p>
           </td>
         </tr>
         <tr id="0112">
@@ -338,7 +328,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana I do Tempo Comum</span>
+              <span className="feast4">
+                Sexta-Feira da Semana I do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -354,7 +346,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-HI.htm#60493"
                 className="feast4"
@@ -454,7 +447,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-ANT.htm#69119"
                 className="feast3"
@@ -531,7 +525,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/FB1.htm"
                 className="feast4"
@@ -555,7 +550,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-SE.htm#69125"
                 className="feast4"
@@ -585,7 +581,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-AG.htm#69126"
                 className="feast3"
@@ -651,7 +648,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-FRAN.htm#20885"
                 className="feast3"
@@ -708,7 +706,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-TI.htm#69128"
                 className="feast3"
@@ -759,7 +758,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-ANG.htm#62634"
                 className="feast4"
@@ -789,7 +789,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-THO.htm#67099"
                 className="feast3"
@@ -855,7 +856,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#25336"
                 className="feast3"
@@ -946,7 +948,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../dioceses/diocese/hamb0.htm#52678"
                 className="feast4"
@@ -970,7 +973,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-BI.htm#69130"
                 className="feast4"
@@ -1053,7 +1057,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-PAU.htm#65582"
                 className="feast3"
@@ -1062,7 +1067,10 @@ export default function Table() {
                 Paulo Miki
               </a>
               <span className="feast3"> e </span>
-              <a href="../../saints/sancti-P09.htm#S18620608-2" className="feast3">
+              <a
+                href="../../saints/sancti-P09.htm#S18620608-2"
+                className="feast3"
+              >
                 Companheiros
               </a>
               <span className="feast3">, mártires</span>
@@ -1080,7 +1088,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana V do Tempo Comum</span>
+              <span className="feast4">
+                Terça-Feira da Semana V do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -1115,7 +1125,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-JOS.htm#67241"
                 className="feast4"
@@ -1139,7 +1150,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JEN.htm#26108"
                 className="feast4"
@@ -1186,7 +1198,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-S.htm#69124"
                 className="feast3"
@@ -1288,7 +1301,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-CO.htm#69186"
                 className="feast3"
@@ -1373,8 +1387,12 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santos </span>
-              <a href="../../saints/sancti-L13.htm#S18880115-4" className="feast4">
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santos </span>
+              <a
+                href="../../saints/sancti-L13.htm#S18880115-4"
+                className="feast4"
+              >
                 Sete Fundadores da Ordem dos Servitas
               </a>
             </p>
@@ -1481,7 +1499,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PEM.htm#63097"
                 className="feast4"
@@ -1542,7 +1561,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PL.htm#69132"
                 className="feast4"
@@ -1616,7 +1636,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana I da Quaresma</span>
+              <span className="feast4">
+                Segunda-Feira da Semana I da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1632,7 +1654,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-GL.htm#67016"
                 className="feast4"
@@ -1655,7 +1678,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana I da Quaresma</span>
+              <span className="feast4">
+                Terça-Feira da Semana I da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1682,7 +1707,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana I da Quaresma</span>
+              <span className="feast4">
+                Quarta-Feira da Semana I da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1697,7 +1724,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana I da Quaresma</span>
+              <span className="feast4">
+                Quinta-Feira da Semana I da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1712,7 +1741,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana I da Quaresma</span>
+              <span className="feast4">
+                Sexta-Feira da Semana I da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1745,7 +1776,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-CAS.htm#68718"
                 className="feast4"
@@ -1786,7 +1818,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana II da Quaresma</span>
+              <span className="feast4">
+                Segunda-Feira da Semana II da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1803,7 +1837,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana II da Quaresma</span>
+              <span className="feast4">
+                Terça-Feira da Semana II da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1819,7 +1855,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">Santas </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">Santas </span>
               <a
                 href="../../saints/data/saints-PEM.htm#69133"
                 className="feast4"
@@ -1852,7 +1889,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana II da Quaresma</span>
+              <span className="feast4">
+                Quarta-Feira da Semana II da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1868,7 +1907,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#26160"
                 className="feast4"
@@ -1893,7 +1933,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana II da Quaresma</span>
+              <span className="feast4">
+                Quinta-Feira da Semana II da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1909,7 +1951,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">Santa </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-FRAN.htm#68296"
                 className="feast4"
@@ -1932,7 +1975,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana II da Quaresma</span>
+              <span className="feast4">
+                Sexta-Feira da Semana II da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -1998,7 +2043,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana III da Quaresma</span>
+              <span className="feast4">
+                Terça-Feira da Semana III da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2013,7 +2060,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana III da Quaresma</span>
+              <span className="feast4">
+                Quarta-Feira da Semana III da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2028,7 +2077,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana III da Quaresma</span>
+              <span className="feast4">
+                Quinta-Feira da Semana III da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2045,7 +2096,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana III da Quaresma</span>
+              <span className="feast4">
+                Sexta-Feira da Semana III da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2061,7 +2114,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../dioceses/diocese/arma0.htm#62870"
                 className="feast4"
@@ -2102,7 +2156,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-CO.htm#33989"
                 className="feast4"
@@ -2148,7 +2203,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast1">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast1">São </span>
               <a
                 href="../../saints/data/saints-JOS.htm#69212"
                 className="feast1"
@@ -2171,7 +2227,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana IV da Quaresma</span>
+              <span className="feast4">
+                Terça-Feira da Semana IV da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2186,7 +2244,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana IV da Quaresma</span>
+              <span className="feast4">
+                Quarta-Feira da Semana IV da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2203,7 +2263,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana IV da Quaresma</span>
+              <span className="feast4">
+                Quinta-Feira da Semana IV da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2219,7 +2281,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-TI.htm#19316"
                 className="feast4"
@@ -2242,7 +2305,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana IV da Quaresma</span>
+              <span className="feast4">
+                Sexta-Feira da Semana IV da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2297,7 +2362,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana V da Quaresma</span>
+              <span className="feast4">
+                Segunda-Feira da Semana V da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2312,7 +2379,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana V da Quaresma</span>
+              <span className="feast4">
+                Terça-Feira da Semana V da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2327,7 +2396,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana V da Quaresma</span>
+              <span className="feast4">
+                Quarta-Feira da Semana V da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2342,7 +2413,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana V da Quaresma</span>
+              <span className="feast4">
+                Quinta-Feira da Semana V da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2357,7 +2430,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana V da Quaresma</span>
+              <span className="feast4">
+                Sexta-Feira da Semana V da Quaresma
+              </span>
             </p>
           </td>
         </tr>
@@ -2403,7 +2478,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastr"></span>{" "}
-              <span className="feast1">Domingo de Ramos e da Paixão do Senhor</span>
+              <span className="feast1">
+                Domingo de Ramos e da Paixão do Senhor
+              </span>
             </p>
           </td>
         </tr>
@@ -2454,10 +2531,14 @@ export default function Table() {
         </tr>
         <tr>
           <td rowSpan={4} className="aside">
-            <div className="season">Tríduo<br/>Pascal</div>
+            <div className="season">
+              Tríduo
+              <br />
+              Pascal
+            </div>
           </td>
         </tr>
-        <tr id="0406" >
+        <tr id="0406">
           <td align="right">
             <span className="zdate">6</span>
           </td>
@@ -2502,7 +2583,7 @@ export default function Table() {
             </p>
           </td>
         </tr>
-        <tr >
+        <tr>
           <td rowSpan={30} className="aside">
             <div className="season">Tempo Pascal</div>
           </td>
@@ -2674,7 +2755,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana II da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana II da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2704,7 +2787,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana II da Páscoa</span>
+              <span className="feast4">
+                Quarta-Feira da Semana II da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2719,7 +2804,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana II da Páscoa</span>
+              <span className="feast4">
+                Quinta-Feira da Semana II da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2752,7 +2839,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-ANN.htm#28255"
                 className="feast4"
@@ -2811,7 +2899,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana III da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana III da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2827,7 +2917,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-FI.htm#68257"
                 className="feast4"
@@ -2853,7 +2944,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-MARK.htm#33372"
                 className="feast2"
@@ -2876,7 +2968,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana III da Páscoa</span>
+              <span className="feast4">
+                Quarta-Feira da Semana III da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2891,7 +2985,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana III da Páscoa</span>
+              <span className="feast4">
+                Quinta-Feira da Semana III da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2908,7 +3004,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana III da Páscoa</span>
+              <span className="feast4">
+                Sexta-Feira da Semana III da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -2924,7 +3022,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-LI.htm#25810"
                 className="feast4"
@@ -2948,7 +3047,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PI.htm#68101"
                 className="feast4"
@@ -2978,7 +3078,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-CAS.htm#67020"
                 className="feast3"
@@ -3034,7 +3135,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana IV da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana IV da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3050,7 +3153,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOS.htm#69212"
                 className="feast4"
@@ -3080,7 +3184,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-AT.htm#57515"
                 className="feast3"
@@ -3106,7 +3211,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">Santos </span>
               <a
                 href="../../saints/data/saints-PH.htm#69196"
                 className="feast2"
@@ -3137,7 +3243,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana IV da Páscoa</span>
+              <span className="feast4">
+                Quinta-Feira da Semana IV da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3201,7 +3309,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana V da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana V da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3249,7 +3359,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#67018"
                 className="feast4"
@@ -3305,7 +3416,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-N.htm#69143"
                 className="feast4"
@@ -3337,7 +3449,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-P.htm#69136"
                 className="feast4"
@@ -3379,7 +3492,10 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <a href="../../churches/europe-south/42466.htm" className="feast4">
+              <a
+                href="../../churches/europe-south/42466.htm"
+                className="feast4"
+              >
                 Nossa Senhora de Fátima
               </a>
             </p>
@@ -3415,7 +3531,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana VI da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana VI da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3445,7 +3563,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana VI da Páscoa</span>
+              <span className="feast4">
+                Quarta-Feira da Semana VI da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3462,7 +3582,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana VI da Páscoa</span>
+              <span className="feast4">
+                Quinta-Feira da Semana VI da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3478,7 +3600,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/J01.htm"
                 className="feast4"
@@ -3534,7 +3657,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-BEO.htm#68710"
                 className="feast4"
@@ -3582,7 +3706,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana VII da Páscoa</span>
+              <span className="feast4">
+                Segunda-Feira da Semana VII da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3598,7 +3724,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-RE.htm#68222"
                 className="feast4"
@@ -3621,7 +3748,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Terça-Feira da Semana VII da Páscoa</span>
+              <span className="feast4">
+                Terça-Feira da Semana VII da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3636,7 +3765,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana VII da Páscoa</span>
+              <span className="feast4">
+                Quarta-Feira da Semana VII da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3653,7 +3784,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Quinta-Feira da Semana VII da Páscoa</span>
+              <span className="feast4">
+                Quinta-Feira da Semana VII da Páscoa
+              </span>
             </p>
           </td>
         </tr>
@@ -3669,7 +3802,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-MARIA.htm#68297"
                 className="feast4"
@@ -3693,7 +3827,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-BE.htm#67023"
                 className="feast4"
@@ -3717,7 +3852,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/G07.htm"
                 className="feast4"
@@ -3747,7 +3883,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-PH.htm#26109"
                 className="feast3"
@@ -3788,7 +3925,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../dioceses/former/cant2.htm#28272"
                 className="feast4"
@@ -3825,7 +3963,11 @@ export default function Table() {
         </tr>
         <tr>
           <td rowSpan={4} className="aside">
-            <div className="season">Tempo<br/>Comum</div>
+            <div className="season">
+              Tempo
+              <br />
+              Comum
+            </div>
           </td>
         </tr>
         <tr id="0529" className="painted">
@@ -3919,7 +4061,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JUB.htm#69137"
                 className="feast3"
@@ -3962,7 +4105,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-MARA.htm#69141"
                 className="feast4"
@@ -4000,7 +4144,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-C.htm#66474"
                 className="feast3"
@@ -4009,7 +4154,10 @@ export default function Table() {
                 Carlos Lwanga
               </a>
               <span className="feast3"> e </span>
-              <a href="../../saints/sancti-PL6.htm#S19641018" className="feast3">
+              <a
+                href="../../saints/sancti-PL6.htm#S19641018"
+                className="feast3"
+              >
                 Companheiros
               </a>
               <span className="feast3">, mártires</span>
@@ -4057,7 +4205,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../dioceses/diocese/main0.htm#49767"
                 className="feast3"
@@ -4100,7 +4249,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-NI.htm#25822"
                 className="feast4"
@@ -4144,7 +4294,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast1">Santíssimo Corpo e Sangue de Cristo</span>
+              <span className="feast1">
+                Santíssimo Corpo e Sangue de Cristo
+              </span>
             </p>
           </td>
         </tr>
@@ -4166,7 +4318,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JOS.htm#67278"
                 className="feast3"
@@ -4266,7 +4419,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-ANT.htm#67021"
                 className="feast3"
@@ -4406,7 +4560,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-RO.htm#68906"
                 className="feast4"
@@ -4453,7 +4608,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-ALF.htm#68277"
                 className="feast3"
@@ -4496,7 +4652,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-JOH.htm#21193"
                 className="feast4"
@@ -4528,7 +4685,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../dioceses/diocese/nola0.htm#62882"
                 className="feast4"
@@ -4650,7 +4808,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-CO.htm#57514"
                 className="feast4"
@@ -4680,7 +4839,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santo </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-IP.htm#26628"
                 className="feast3"
@@ -4772,7 +4932,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -4811,7 +4973,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast1">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast1">Santos </span>
               <a
                 href="../../hierarchy/pope/PT1.htm"
                 className="feast1"
@@ -4845,7 +5008,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-THO.htm#69199"
                 className="feast2"
@@ -4888,7 +5052,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-EG.htm#68290"
                 className="feast4"
@@ -4930,7 +5095,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-ANT.htm#26059"
                 className="feast4"
@@ -4973,7 +5139,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-MARIA.htm#68095"
                 className="feast4"
@@ -5015,7 +5182,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XIII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XIII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -5031,7 +5200,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-AT.htm#66022"
                 className="feast4"
@@ -5040,7 +5210,10 @@ export default function Table() {
                 Agostinho Zao Rong
               </a>
               <span className="feast4">, presbítero, e </span>
-              <a href="../../saints/sancti-JP2.htm#S20001001-1" className="feast4">
+              <a
+                href="../../saints/sancti-JP2.htm#S20001001-1"
+                className="feast4"
+              >
                 Companheiros
               </a>
               <span className="feast4">, mártires</span>
@@ -5118,7 +5291,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-BE.htm#25751"
                 className="feast3"
@@ -5178,7 +5352,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-H.htm#68905"
                 className="feast4"
@@ -5220,7 +5395,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-C.htm#56886"
                 className="feast4"
@@ -5250,7 +5426,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-BI.htm#24777"
                 className="feast3"
@@ -5299,7 +5476,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Beatos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Beatos </span>
               <a
                 href="../../saints/data/saints-I.htm#66539"
                 className="feast3"
@@ -5308,7 +5486,10 @@ export default function Table() {
                 Inácio de Azevedo
               </a>
               <span className="feast3">, presbítero, e </span>
-              <a href="../../saints/beati-P09.htm#B18540511-1" className="feast3">
+              <a
+                href="../../saints/beati-P09.htm#B18540511-1"
+                className="feast3"
+              >
                 Companheiros
               </a>
               <span className="feast3">, mártires</span>
@@ -5380,7 +5561,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santo </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../dioceses/diocese/rave0.htm#62885"
                 className="feast4"
@@ -5423,7 +5605,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-L.htm#25021"
                 className="feast4"
@@ -5449,7 +5632,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast2">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast2">Santa </span>
               <a
                 href="../../saints/data/saints-MARK.htm#69205"
                 className="feast2"
@@ -5510,7 +5694,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-CE.htm#68053"
                 className="feast4"
@@ -5536,7 +5721,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-J.htm#69195"
                 className="feast2"
@@ -5566,7 +5752,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-JO.htm#69210"
                 className="feast3"
@@ -5638,7 +5825,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-MARK.htm#69209"
                 className="feast3"
@@ -5702,7 +5890,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-I.htm#24384"
                 className="feast3"
@@ -5744,7 +5933,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-ALF.htm#15584"
                 className="feast3"
@@ -5787,7 +5977,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../dioceses/diocese/verc0.htm#43496"
                 className="feast4"
@@ -5811,7 +6002,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PI.htm#25811"
                 className="feast4"
@@ -5858,7 +6050,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#68102"
                 className="feast3"
@@ -5870,7 +6063,7 @@ export default function Table() {
             </p>
           </td>
         </tr>
-        <tr id="0805" className="painted"> 
+        <tr id="0805" className="painted">
           <td align="right" rowSpan="4">
             <span className="zdate">5</span>
           </td>
@@ -5883,7 +6076,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XVII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XVII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -5980,7 +6175,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../hierarchy/pope/SX2.htm"
                 className="feast4"
@@ -6004,7 +6200,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-C.htm#26110"
                 className="feast4"
@@ -6034,7 +6231,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-DO.htm#24414"
                 className="feast3"
@@ -6077,7 +6275,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-T.htm#67234"
                 className="feast4"
@@ -6103,7 +6302,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-L.htm#69122"
                 className="feast2"
@@ -6133,7 +6333,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-CI.htm#68712"
                 className="feast3"
@@ -6158,7 +6359,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XVIII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XVIII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -6174,7 +6377,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-J.htm#60870"
                 className="feast4"
@@ -6240,7 +6444,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-MAT.htm#67214"
                 className="feast3"
@@ -6300,7 +6505,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-SK.htm#68719"
                 className="feast4"
@@ -6358,7 +6564,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XIX do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XIX do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -6374,7 +6582,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#25772"
                 className="feast4"
@@ -6444,7 +6653,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../hierarchy/pope/P10.htm"
                 className="feast3"
@@ -6493,7 +6703,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast2">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast2">Santa </span>
               <a
                 href="../../saints/data/saints-RO.htm#68300"
                 className="feast2"
@@ -6519,7 +6730,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-B.htm#69197"
                 className="feast2"
@@ -6562,7 +6774,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOS.htm#26113"
                 className="feast4"
@@ -6586,7 +6799,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-LI.htm#68713"
                 className="feast4"
@@ -6668,7 +6882,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-AT.htm#49738"
                 className="feast3"
@@ -6786,7 +7001,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXI do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXI do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -6926,7 +7143,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -6942,7 +7161,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PEM.htm#68248"
                 className="feast4"
@@ -7061,7 +7281,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#67062"
                 className="feast3"
@@ -7133,7 +7354,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../hierarchy/pope/CR1.htm"
                 className="feast3"
@@ -7220,7 +7442,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../dioceses/diocese/bene0.htm#62886"
                 className="feast4"
@@ -7250,7 +7473,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-AN.htm#66311"
                 className="feast3"
@@ -7267,7 +7491,10 @@ export default function Table() {
                 Paulo Chong Hasang
               </a>
               <span className="feast3"> e </span>
-              <a href="../../saints/sancti-JP2.htm#S19840506" className="feast3">
+              <a
+                href="../../saints/sancti-JP2.htm#S19840506"
+                className="feast3"
+              >
                 Companheiros
               </a>
               <span className="feast3">, mártires</span>
@@ -7288,7 +7515,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-MAT.htm#69198"
                 className="feast2"
@@ -7335,7 +7563,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-PI.htm#67248"
                 className="feast3"
@@ -7414,7 +7643,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-CO.htm#69145"
                 className="feast4"
@@ -7452,7 +7682,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-VID.htm#25372"
                 className="feast3"
@@ -7495,7 +7726,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-LI.htm#65616"
                 className="feast4"
@@ -7504,7 +7736,10 @@ export default function Table() {
                 Lourenço Ruiz
               </a>
               <span className="feast4"> e </span>
-              <a href="../../saints/sancti-JP2.htm#S19871018" className="feast4">
+              <a
+                href="../../saints/sancti-JP2.htm#S19871018"
+                className="feast4"
+              >
                 Companheiros
               </a>
               <span className="feast4">, mártires</span>
@@ -7523,7 +7758,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-W.htm#68720"
                 className="feast4"
@@ -7549,7 +7785,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast2">Santos </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast2">Santos </span>
               <span className="feast2">Miguel</span>
               <span className="feast2">, </span>
               <span className="feast2">Gabriel</span>
@@ -7577,7 +7814,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JEN.htm#67100"
                 className="feast3"
@@ -7661,7 +7899,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-AN.htm#66619"
                 className="feast3"
@@ -7701,7 +7940,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-FRAN.htm#24770"
                 className="feast3"
@@ -7744,7 +7984,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-F.htm#67238"
                 className="feast4"
@@ -7768,7 +8009,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-BE.htm#68262"
                 className="feast4"
@@ -7780,7 +8022,7 @@ export default function Table() {
             </p>
           </td>
         </tr>
-        <tr id="1006" >
+        <tr id="1006">
           <td align="right" rowSpan="3">
             <span className="zdate">6</span>
           </td>
@@ -7811,7 +8053,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-BI.htm#50085"
                 className="feast4"
@@ -7898,7 +8141,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-DE.htm#26676"
                 className="feast4"
@@ -7922,7 +8166,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-GIN.htm#25718"
                 className="feast4"
@@ -7951,7 +8196,7 @@ export default function Table() {
             </p>
           </td>
         </tr>
-        <tr id="1011" className="painted" >
+        <tr id="1011" className="painted">
           <td align="right" rowSpan="3">
             <span className="zdate">11</span>
           </td>
@@ -7982,7 +8227,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/J23.htm"
                 className="feast4"
@@ -8045,7 +8291,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXVII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXVII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -8061,7 +8309,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/CT1.htm"
                 className="feast4"
@@ -8140,7 +8389,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-H.htm#68714"
                 className="feast4"
@@ -8164,7 +8414,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-MARA.htm#68117"
                 className="feast4"
@@ -8194,7 +8445,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santo </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../dioceses/former/t0003.htm#29797"
                 className="feast3"
@@ -8220,7 +8472,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-LUE.htm#69206"
                 className="feast2"
@@ -8263,7 +8516,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santos </span>
               <a
                 href="../../saints/data/saints-JE.htm#67012"
                 className="feast4"
@@ -8280,7 +8534,10 @@ export default function Table() {
                 Isaac Jogues
               </a>
               <span className="feast4">, presbíteros, e </span>
-              <a href="../../saints/sancti-P11.htm#S19300629-1" className="feast4">
+              <a
+                href="../../saints/sancti-P11.htm#S19300629-1"
+                className="feast4"
+              >
                 Companheiros
               </a>
               <span className="feast4">, mártires</span>
@@ -8299,7 +8556,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PAU.htm#25756"
                 className="feast4"
@@ -8341,7 +8599,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXVIII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXVIII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -8412,7 +8672,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#68301"
                 className="feast4"
@@ -8455,7 +8716,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-ANT.htm#12580"
                 className="feast4"
@@ -8485,7 +8747,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-ANT.htm#67260"
                 className="feast3"
@@ -8545,7 +8808,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">Santos </span>
               <a
                 href="../../saints/data/saints-SH.htm#69200"
                 className="feast2"
@@ -8660,7 +8924,9 @@ export default function Table() {
               <span className="feastv"></span>
               <span className="feastw"></span>
               <span className="feastb"></span>{" "}
-              <span className="feast1">Comemoração de Todos os Fiéis Defuntos</span>
+              <span className="feast1">
+                Comemoração de Todos os Fiéis Defuntos
+              </span>
             </p>
           </td>
         </tr>
@@ -8695,7 +8961,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-MARK.htm#68091"
                 className="feast4"
@@ -8725,7 +8992,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-CE.htm#19140"
                 className="feast3"
@@ -8851,7 +9119,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../hierarchy/pope/L01.htm"
                 className="feast3"
@@ -8881,7 +9150,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../dioceses/diocese/tour0.htm#34604"
                 className="feast3"
@@ -8977,7 +9247,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santo </span>
               <a
                 href="../../saints/data/saints-AL.htm#53583"
                 className="feast4"
@@ -9020,7 +9291,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-GE.htm#68716"
                 className="feast4"
@@ -9044,7 +9316,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-MARA.htm#68715"
                 className="feast4"
@@ -9073,7 +9346,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santa </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-EG.htm#68717"
                 className="feast3"
@@ -9098,7 +9372,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXXII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXXII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -9115,7 +9391,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast4">Dedicação das Basílicas dos Santos </span>
+              <span className="feast4">
+                Dedicação das Basílicas dos Santos{" "}
+              </span>
               <a href="../../churches/urbis/0002.htm" className="feast4">
                 Pedro
               </a>
@@ -9221,7 +9499,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-CE.htm#69140"
                 className="feast3"
@@ -9264,7 +9543,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">São </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/C01.htm"
                 className="feast4"
@@ -9288,7 +9568,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-CO.htm#57304"
                 className="feast4"
@@ -9318,7 +9599,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santos </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santos </span>
               <a
                 href="../../saints/data/saints-ANN.htm#66176"
                 className="feast3"
@@ -9327,7 +9609,10 @@ export default function Table() {
                 André Dũng Lạc
               </a>
               <span className="feast3">, presbítero, e </span>
-              <a href="../../saints/sancti-JP2.htm#S19880619" className="feast3">
+              <a
+                href="../../saints/sancti-JP2.htm#S19880619"
+                className="feast3"
+              >
                 Companheiros
               </a>
               <span className="feast3">, mártires</span>
@@ -9347,7 +9632,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXXIII do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXXIII do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -9363,7 +9650,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast4">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast4">Santa </span>
               <a
                 href="../../saints/data/saints-CAS.htm#69139"
                 className="feast4"
@@ -9482,7 +9770,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">Santo </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">Santo </span>
               <a
                 href="../../saints/data/saints-AN.htm#67026"
                 className="feast2"
@@ -9503,7 +9792,10 @@ export default function Table() {
         </tr>
         <tr>
           <td rowSpan={5} className="aside">
-            <div className="season">Tempo<br/> Comum</div>
+            <div className="season">
+              Tempo
+              <br /> Comum
+            </div>
           </td>
         </tr>
         <tr id="1201" className="painted">
@@ -9536,7 +9828,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastg"></span>{" "}
-              <span className="feast4">Sábado da Semana XXXIV do Tempo Comum</span>
+              <span className="feast4">
+                Sábado da Semana XXXIV do Tempo Comum
+              </span>
             </p>
           </td>
         </tr>
@@ -9594,7 +9888,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana I do Advento</span>
+              <span className="feast4">
+                Segunda-Feira da Semana I do Advento
+              </span>
             </p>
           </td>
         </tr>
@@ -9610,7 +9906,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#67024"
                 className="feast4"
@@ -9650,7 +9947,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Quarta-Feira da Semana I do Advento</span>
+              <span className="feast4">
+                Quarta-Feira da Semana I do Advento
+              </span>
             </p>
           </td>
         </tr>
@@ -9666,7 +9965,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../dioceses/former/t1170.htm#69121"
                 className="feast4"
@@ -9696,7 +9996,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">Santo </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">Santo </span>
               <a
                 href="../../saints/data/saints-AM.htm#33988"
                 className="feast3"
@@ -9723,7 +10024,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastw"></span>{" "}
-              <span className="feast1">Imaculada Conceição de Nossa Senhora</span>
+              <span className="feast1">
+                Imaculada Conceição de Nossa Senhora
+              </span>
             </p>
           </td>
         </tr>
@@ -9756,7 +10059,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JUA.htm#67249"
                 className="feast4"
@@ -9799,7 +10103,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Segunda-Feira da Semana II do Advento</span>
+              <span className="feast4">
+                Segunda-Feira da Semana II do Advento
+              </span>
             </p>
           </td>
         </tr>
@@ -9815,7 +10121,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../hierarchy/pope/DM1.htm"
                 className="feast4"
@@ -9866,7 +10173,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast3">Santa </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast3">Santa </span>
               <a
                 href="../../saints/data/saints-LU.htm#69123"
                 className="feast3"
@@ -9896,7 +10204,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast3">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast3">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#25752"
                 className="feast3"
@@ -9919,7 +10228,9 @@ export default function Table() {
           <td>
             <p className="indent">
               <span className="feastv"></span>{" "}
-              <span className="feast4">Sexta-Feira da Semana II do Advento</span>
+              <span className="feast4">
+                Sexta-Feira da Semana II do Advento
+              </span>
             </p>
           </td>
         </tr>
@@ -10032,7 +10343,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-PEM.htm#27747"
                 className="feast4"
@@ -10088,7 +10400,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastv"></span> <span className="feast4">São </span>
+              <span className="feastv"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#68260"
                 className="feast4"
@@ -10159,7 +10472,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastr"></span> <span className="feast2">Santo </span>
+              <span className="feastr"></span>{" "}
+              <span className="feast2">Santo </span>
               <a
                 href="../../saints/data/saints-SK.htm#69207"
                 className="feast2"
@@ -10185,7 +10499,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast2">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast2">São </span>
               <a
                 href="../../saints/data/saints-JOH.htm#69203"
                 className="feast2"
@@ -10245,7 +10560,8 @@ export default function Table() {
           </td>
           <td>
             <p className="indent">
-              <span className="feastw"></span> <span className="feast4">São </span>
+              <span className="feastw"></span>{" "}
+              <span className="feast4">São </span>
               <a
                 href="../../saints/data/saints-THO.htm#28251"
                 className="feast4"
