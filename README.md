@@ -44,7 +44,7 @@ Para rodar o projeto na sua máquina é necessário:
 - NodeJS
 - Navegador
 
-<h3> 🖥 - Rodando LocalmenteRodando Localmente</h3>
+<h3> 🖥 - Rodando Localmente</h3>
 
 Primeiro clone o projeto na sua máquina
 
