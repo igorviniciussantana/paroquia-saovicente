@@ -4,15 +4,20 @@ import styles from "../styles/Home.module.scss";
 import Table from "../components/Table/Table";
 import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
+import Card from "../components/Card/Card";
+import { CalendarBlank, ClipboardText } from "phosphor-react";
 
-export default function Calendar() {
+
+
+
+export default function Home() {
   return (
     <>
       <Head>
-        <title>Calendário Litúrgico 2023 - Paróquia São Vicente</title>
+        <title>Paróquia São Vicente - Nova Andradina</title>
         <meta
           name="description"
-          content="Calendário Litúrgico da Paróquia São Vicente para o ano de 2023"
+          content="Página de Links da Paróquia São Vicente"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -21,7 +26,7 @@ export default function Calendar() {
       <div className={styles.bgImage}></div>
       <main className={styles.main}>
         <h1 className={`${newYork.className} ${styles.title}`}>
-          Calendário Litúrgico
+          Página de Links
         </h1>
         <h3 className={`${MonumentLight.className} ${styles.subtitle}`}>
           PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
@@ -32,7 +37,7 @@ export default function Calendar() {
         <h2 className={`${MonumentBlack.className} ${styles.yearTitle}`}>
           2023
         </h2>
-        <Table />
+        <Card icon={false} title='Acessar Calendário' link='/calendario' />
         <Footer />
       </main>
 
