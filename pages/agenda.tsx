@@ -6,8 +6,24 @@ import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
 import { useState } from "react";
 import CreateEventModal from "../components/Event/createEventModal/createEvent";
+import { GetServerSideProps } from "next";
+import { api } from "./api/api";
 
-export default function Agenda() {
+interface EventsAtribute{
+    name: string;
+    Data: string;
+    Time: string;
+}
+
+interface Event{
+    attributes: EventsAtribute
+}
+
+interface AgendaProps{
+    events: Event[]
+}
+
+export default function Agenda({events} : AgendaProps) {
 
 
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -42,11 +58,29 @@ export default function Agenda() {
         Adicionar Evento
        </button>
 
-       <CreateEventModal display={isModalOpen ? 'block' : 'none'}/>
+       <CreateEventModal display={isModalOpen ? 'flex' : 'none'} modalChanger={showEventModal}/>
+
+       {events.map(event => {
+        return(
+            <h1>{event.attributes.name}</h1>
+        )
+       })}
         <Footer />
       </main>
 
       
     </>
   );
+}
+
+export const getServerSideProps : GetServerSideProps = async() => {
+    const response = await api.get('/events')
+
+    const eventsData = await response.data
+
+    return{
+        props: {
+            events: eventsData.data,
+        }
+    }
 }
