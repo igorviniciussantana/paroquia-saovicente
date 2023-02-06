@@ -34,10 +34,8 @@ export default function Home() {
 
         <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage} />
 
-        <h2 className={`${MonumentBlack.className} ${styles.yearTitle}`}>
-          2023
-        </h2>
-        <Card icon={false} title='Acessar Calendário' link='/calendario' />
+        <Card icon={true} title='Acessar Calendário' link='/calendario' />
+        <Card icon={false} title='Acessar Agenda' link='/agenda' />
         <Footer />
       </main>
 

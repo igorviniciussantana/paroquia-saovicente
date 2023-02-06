@@ -1,0 +1,26 @@
+@import "./../../styles/variables.scss";
+
+
+.card{
+    background-color: $dark-color;
+    display: flex;
+    color: $background-color;
+    width: clamp(3rem, 90vw, 20rem);
+    align-items: center;
+    column-gap: 0.5rem;
+    text-transform: uppercase;
+    padding: 1.25rem 0 1.25rem 1.5rem;
+    font-family: "Monument";
+cursor: pointer;
+    &:first-of-type{
+        margin-top: 1rem;
+    }
+    margin-top: 0.5rem;
+    
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
