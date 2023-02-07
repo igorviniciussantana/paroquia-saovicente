@@ -1,8 +1,5 @@
 import Head from "next/head";
-import Image from "next/image";
 import styles from "../styles/Agenda.module.scss";
-import Table from "../components/Table/Table";
-import { MonumentBlack, MonumentLight, newYork } from "../src/imports";
 import Footer from "../components/Footer/Footer";
 import { useState } from "react";
 import CreateEventModal from "../components/Event/createEventModal/createEvent";
@@ -11,7 +8,7 @@ import { api } from "./api/api";
 import Router from "next/router";
 import UpdateEventModal from "../components/Event/updateEventModal/updateEvent";
 import { PlusCircle } from "phosphor-react";
-import Header from "../components/Header/header";
+import Header from "../components/Header/Header";
 
 interface EventsAtribute {
   name: string;
