@@ -32,6 +32,11 @@ export default function Agenda({ events }: AgendaProps) {
     setIsModalOpen(!isModalOpen);
   }
 
+  function showUpdateEventModal() {
+    setIsModalOpen(!isModalOpen);
+  }
+
+
   const deleteEvent = async function (id: number) {
     const response = await api
       .delete(`events/${id}`)
@@ -71,6 +76,7 @@ export default function Agenda({ events }: AgendaProps) {
             <div key={event.id}>
               <h1>{event.attributes.name}</h1>
               <h1>{new Date(event.attributes.Data).toLocaleString("pt-BR")}</h1>
+              <button onClick={(e) => deleteEvent(event.id)}>Editar</button>
               <button onClick={(e) => deleteEvent(event.id)}>Deletar</button>
             </div>
           );
