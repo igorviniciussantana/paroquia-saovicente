@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "./createEvent.module.scss";
+import styles from "./updateEvent.module.scss";
 import { MonumentBlack, MonumentLight, newYork } from "../../../src/imports";
 import { CalendarBlank, ClipboardText } from "phosphor-react";
 import { useForm } from "react-hook-form";
@@ -8,12 +8,15 @@ import { api } from "../../../pages/api/api";
 import { GetServerSideProps } from "next";
 import  Router  from "next/router";
 
-interface createEventModalProps {
+interface updateEventModalProps {
   display: string;
-  modalChanger: () => void;
+  modalChanger: (id: number, name : string, date: string) => void;
+  id: number;
+  name: string;
+  date: string
 }
 
-export default function UpdateEventModal(props: createEventModalProps) {
+export default function UpdateEventModal(props: updateEventModalProps) {
   const {
     register,
     handleSubmit,
@@ -23,8 +26,8 @@ export default function UpdateEventModal(props: createEventModalProps) {
   const submitForm = async (event: any) => {
     console.log(event);
     const response = await api
-      .post(
-        "/events",
+      .put(
+        `/events/${props.id}`,
         {
           data: {
             name: event.name,
@@ -49,14 +52,17 @@ export default function UpdateEventModal(props: createEventModalProps) {
       style={{ display: props.display }}
     >
       <form onSubmit={handleSubmit(submitForm)}>
-        <p onClick={props.modalChanger}>X</p>
+        <p onClick={e => props.modalChanger(0, '', '')}>X</p>
+        <h1>Atualizar Evento</h1>
         <input
           placeholder="Insira o nome do evento"
+          defaultValue={props.name}
           {...register("name", { required: true })}
         />
         {errors.name && <p>O nome não pode estar vazio</p>}
         <input
           type="datetime-local"
+          defaultValue={props.date}
           {...register("Data", { required: true })}
         />
         {errors.Data && <p>A data não pode estar vazia</p>}
