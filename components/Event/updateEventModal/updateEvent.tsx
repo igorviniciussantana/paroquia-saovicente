@@ -41,7 +41,7 @@ export default function UpdateEventModal(props: updateEventModalProps) {
           },
         }
       )
-      .then((e) => alert("Evento cadastrado com sucesso"))
+      .then((e) => alert("Evento atualizado com sucesso"))
       .catch((err) => alert("Houve um erro. Tente de novo"))
       .finally(() => Router.reload());
   };
