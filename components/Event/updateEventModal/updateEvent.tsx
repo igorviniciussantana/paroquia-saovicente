@@ -67,7 +67,7 @@ export default function UpdateEventModal(props: updateEventModalProps) {
         />
         {errors.Data && <p>A data não pode estar vazia</p>}
 
-        <input type="submit" />
+        <input type="submit" value='Atualizar'/>
       </form>
     </div>
   );

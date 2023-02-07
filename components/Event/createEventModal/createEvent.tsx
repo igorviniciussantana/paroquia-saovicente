@@ -50,6 +50,7 @@ export default function CreateEventModal(props: createEventModalProps) {
     >
       <form onSubmit={handleSubmit(submitForm)}>
         <p onClick={props.modalChanger}>X</p>
+        <h1>Criar Evento</h1>
         <input
           placeholder="Insira o nome do evento"
           {...register("name", { required: true })}
