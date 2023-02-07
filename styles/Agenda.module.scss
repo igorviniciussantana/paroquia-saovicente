@@ -1,7 +1,5 @@
 @import "./variables.scss";
 
-
-
 .bgImage {
   background-image: url("./../public/images/sao-vicente.jpg");
   background-size: cover;
@@ -32,37 +30,7 @@
   align-items: center;
   flex-direction: column;
 
-  .title {
-    margin-top: 2rem;
-    font-weight: inherit;
-    font-size: 4rem;
-    color: $dark-color;
-    text-align: center;
-    line-height: 86.9%;
-    margin-bottom: 1rem;
-  }
-
-  .subtitle {
-    font-weight: inherit;
-    font-size: 1rem;
-    color: $subtitle;
-    text-align: center;
-    padding: 0.25rem;
-  }
-
-  .saoVicenteImage {
-    width: 6rem;
-    margin-top: 1rem;
-    border-radius: 2rem;
-  }
-
-  .yearTitle {
-    font-size: 3rem;
-    color: $dark-color;
-    margin-top: 4rem;
-  }
-
-  .button{
+  .button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,37 +39,91 @@
     margin-top: 2rem;
     flex-wrap: wrap;
     text-align: center;
+    width: clamp(4rem, 90vw, 364px);
 
     color: $background-color;
-    font-family: 'Monument', sans-serif;
+    font-family: "Monument", sans-serif;
     text-transform: uppercase;
     font-size: 0.5rem;
     column-gap: 0.5rem;
-    transition: .5s;
+    transition: 0.5s;
 
     cursor: pointer;
 
-    &:hover{
+    &:hover {
       background-color: #2c1304;
-      transition: .5s;
+      transition: 0.5s;
     }
   }
 }
 
-.row{
-    width: clamp(4rem, 90vw, 720px);
-    display: flex;
+.row {
+  width: clamp(4rem, 95vw, 720px);
+  height: fit-content;
+  display: flex;
+  column-gap: 0.25rem;
 
-    #name{
-        width: 50%;
-        background-color: red;
+  #name {
+    width: 45%;
+  }
+  #data {
+    width: 30%;
+  }
+
+  #action{
+    width: 25%;
+
+  }
+  #actions {
+    width: 25%;
+background-color: transparent !important;
+    display: flex;
+    padding: 0 !important;
+    justify-content: space-between;
+    column-gap: 0.25rem;
+
+    button{
+      height: 100%;
+      min-width: 48%;
+      font-family: 'Apple_Garamond';
+      color: $dark-color;
+      background-color: transparent;
+      border: none;
+font-size: 1rem;
+      cursor: pointer;
     }
-    #data{
-        width: 30%;
-        background-color: rgb(38, 0, 255);
+  }
+}
+
+#tableHeader {
+  margin-top: 2rem;
+  text-align: center;
+  color: $background-color;
+
+  div {
+    background-color: $dark-color;
+    font-family: "Monument", sans-serif;
+    padding: 0.75rem 0;
+  }
+}
+
+#tableContent {
+  text-align: center;
+  color: $dark-color;
+  font-family: "Apple_Garamond";
+
+  div {
+    margin-top: 0.25rem;
+    padding: 0.5rem;
+  }
+
+  &:nth-child(even) {
+    div {
+      background-color: $subtitle;
+
+      button{
+ background-color: $subtitle;
+      }
     }
-    #action{
-        width: 20%;
-        background-color: rgb(0, 255, 34);
-    }
+  }
 }

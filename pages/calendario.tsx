@@ -4,6 +4,7 @@ import styles from "../styles/Home.module.scss";
 import Table from "../components/Table/Table";
 import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
+import Header from "../components/Header/header";
 
 export default function Calendar() {
   return (
@@ -20,14 +21,8 @@ export default function Calendar() {
 
       <div className={styles.bgImage}></div>
       <main className={styles.main}>
-        <h1 className={`${newYork.className} ${styles.title}`}>
-          Calendário Litúrgico
-        </h1>
-        <h3 className={`${MonumentLight.className} ${styles.subtitle}`}>
-          PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
-        </h3>
-
-        <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage} />
+      <Header title='Calendário Litúrgico'/>
+        
 
         <h2 className={`${MonumentBlack.className} ${styles.yearTitle}`}>
           2023

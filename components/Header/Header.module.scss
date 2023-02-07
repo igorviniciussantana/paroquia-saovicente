@@ -1,0 +1,33 @@
+@import '../../styles/variables.scss';
+
+
+.header{
+
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+.title {
+    margin-top: 2rem;
+    font-weight: inherit;
+    font-size: 4rem;
+    color: $dark-color;
+    text-align: center;
+    line-height: 86.9%;
+    margin-bottom: 1rem;
+  }
+
+  .subtitle {
+    font-weight: inherit;
+    font-size: 1rem;
+    color: $subtitle;
+    text-align: center;
+    padding: 0.25rem;
+  }
+
+  .saoVicenteImage {
+    width: 6rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
+  }

@@ -6,6 +6,7 @@ import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
 import Card from "../components/Card/Card";
 import { CalendarBlank, ClipboardText } from "phosphor-react";
+import Header from "../components/Header/header";
 
 
 
@@ -25,14 +26,8 @@ export default function Home() {
 
       <div className={styles.bgImage}></div>
       <main className={styles.main}>
-        <h1 className={`${newYork.className} ${styles.title}`}>
-          Página de Links
-        </h1>
-        <h3 className={`${MonumentLight.className} ${styles.subtitle}`}>
-          PARÓQUIA SÃO VICENTE DE PAULO - NOVA ANDRADINA/MS
-        </h3>
-
-        <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage} />
+      <Header title='Página de Links'/>
+       
 
         <Card icon={true} title='Acessar Calendário' link='/calendario' />
         <Card icon={false} title='Acessar Agenda' link='/agenda' />
