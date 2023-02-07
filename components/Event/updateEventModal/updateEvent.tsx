@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "./updateEvent.module.scss";
 import { MonumentBlack, MonumentLight, newYork } from "../../../src/imports";
-import { CalendarBlank, ClipboardText } from "phosphor-react";
+import { CalendarBlank, ClipboardText, X } from "phosphor-react";
 import { useForm } from "react-hook-form";
 import { api } from "../../../pages/api/api";
 import { GetServerSideProps } from "next";
@@ -52,14 +52,20 @@ export default function UpdateEventModal(props: updateEventModalProps) {
       style={{ display: props.display }}
     >
       <form onSubmit={handleSubmit(submitForm)}>
-        <p onClick={e => props.modalChanger(0, '', '')}>X</p>
-        <h1>Atualizar Evento</h1>
+        <div className={styles.formHeader}>
+        <X weight="fill" color="#471F08" size={32} onClick={e => props.modalChanger(0, '', '')} className={styles.closeButton}/>
+        <h1>Editar Evento</h1>
+        </div>
+
+        <label>Nome do Evento</label>
         <input
           placeholder="Insira o nome do evento"
           defaultValue={props.name}
           {...register("name", { required: true })}
         />
         {errors.name && <p>O nome não pode estar vazio</p>}
+
+        <label>Data do Evento</label>
         <input
           type="datetime-local"
           {...register("Data", { required: true })}

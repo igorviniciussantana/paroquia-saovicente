@@ -14,6 +14,30 @@
     align-items: center;
     justify-content: center;
 
+    .formHeader{
+        position: relative;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        
+        h1{
+            width: 100%;
+            text-align: center;
+            font-family: 'Monument', sans-serif;
+            text-transform: uppercase;
+            font-size: 2rem;
+            text-align: center;
+            line-height: 2rem;
+            color: $dark-color;
+        }
+        .closeButton{
+            cursor: pointer;
+            position: absolute;
+            left: 0;
+        }
+    
+    }
+
     form{
         width: clamp(4rem, 90vw, 720px);
         display: flex;
@@ -25,5 +49,39 @@
         padding: 2rem 1rem;
 
         row-gap: 0.5rem;
+
+        label{
+            font-family: 'Apple_Garamond';
+            font-size: 1.25rem;
+            color: $dark-color;
+        }
+
+        input:not([type=submit]){
+border: none;
+font-size: 1rem;
+border-radius: 0;
+padding: 0.5rem 0;
+border-bottom: 1px solid $dark-color;
+color: $dark-color;
+background-color: $background-color;
+
+&:focus{
+    outline: none;
+}
+
+&::placeholder{
+    color: #471f086b;
+}
+        }
+        input[type=submit]{
+            background-color: $dark-color;
+            border-radius: 0;
+            padding: 0.5rem 0;
+            border: 0;
+            color: $background-color;
+            font-family: 'Monument';
+            text-transform: uppercase;
+            cursor: pointer;
+        }
     }
 }

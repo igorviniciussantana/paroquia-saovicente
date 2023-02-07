@@ -133,7 +133,7 @@ export default function Agenda({ events }: AgendaProps) {
 }
 
 export const getServerSideProps: GetServerSideProps = async () => {
-  const response = await api.get("/events");
+  const response = await api.get("/events?sort[0]=Data");
 
   const eventsData = await response.data;
 
