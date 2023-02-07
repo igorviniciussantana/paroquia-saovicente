@@ -8,6 +8,7 @@ import { useState } from "react";
 import CreateEventModal from "../components/Event/createEventModal/createEvent";
 import { GetServerSideProps } from "next";
 import { api } from "./api/api";
+import Router from "next/router";
 
 interface EventsAtribute {
   name: string;
@@ -35,7 +36,7 @@ export default function Agenda({ events }: AgendaProps) {
     const response = await api
       .delete(`events/${id}`)
       .then((response) => alert("Evento excluido"))
-      .catch((err) => alert("Houve um erro"));
+      .catch((err) => alert("Houve um erro")).finally(() => Router.reload())
   };
   return (
     <>
@@ -67,11 +68,11 @@ export default function Agenda({ events }: AgendaProps) {
 
         {events.map((event) => {
           return (
-            <>
+            <div key={event.id}>
               <h1>{event.attributes.name}</h1>
               <h1>{new Date(event.attributes.Data).toLocaleString("pt-BR")}</h1>
               <button onClick={(e) => deleteEvent(event.id)}>Deletar</button>
-            </>
+            </div>
           );
         })}
         <Footer />
