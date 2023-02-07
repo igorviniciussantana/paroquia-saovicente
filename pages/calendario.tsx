@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.scss";
 import Table from "../components/Table/Table";
 import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
-import Header from "../components/Header/header";
+import Header from "../components/Header/Header";
 
 export default function Calendar() {
   return (

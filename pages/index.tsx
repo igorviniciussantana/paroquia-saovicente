@@ -6,7 +6,7 @@ import {MonumentBlack, MonumentLight, newYork} from '../src/imports'
 import Footer from "../components/Footer/Footer";
 import Card from "../components/Card/Card";
 import { CalendarBlank, ClipboardText } from "phosphor-react";
-import Header from "../components/Header/header";
+import Header from "../components/Header/Header";
 
 
 
