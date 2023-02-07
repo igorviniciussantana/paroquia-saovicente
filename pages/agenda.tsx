@@ -10,6 +10,7 @@ import { GetServerSideProps } from "next";
 import { api } from "./api/api";
 import Router from "next/router";
 import UpdateEventModal from "../components/Event/updateEventModal/updateEvent";
+import { PlusCircle } from "phosphor-react";
 
 interface EventsAtribute {
   name: string;
@@ -75,7 +76,9 @@ export default function Agenda({ events }: AgendaProps) {
 
         <img src="/images/sao-vicente.jpg" className={styles.saoVicenteImage} />
 
-        <button onClick={showEventModal}>Adicionar Evento</button>
+        <div onClick={showEventModal} className={styles.button}>
+          <PlusCircle color="#D49672" weight="fill" size={32}/>
+          <h1>Adicionar Evento</h1></div>
 
         <CreateEventModal
           display={isModalOpen ? "flex" : "none"}

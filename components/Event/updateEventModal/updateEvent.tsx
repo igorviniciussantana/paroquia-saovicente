@@ -62,7 +62,6 @@ export default function UpdateEventModal(props: updateEventModalProps) {
         {errors.name && <p>O nome não pode estar vazio</p>}
         <input
           type="datetime-local"
-          defaultValue={props.date}
           {...register("Data", { required: true })}
         />
         {errors.Data && <p>A data não pode estar vazia</p>}
